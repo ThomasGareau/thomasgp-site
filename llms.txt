@@ -1,0 +1,31 @@
+# Thomas Gareau-Paquette
+
+> Bilingual academic website of Thomas Gareau-Paquette, a PhD student in Cornell University's Department of Government. The site presents his research, publications, software, conference presentations, media coverage, teaching, advising and CV.
+
+English pages are at the site root; French counterparts use the `/fr/` prefix. The homepage pair is `/` and `/fr/`. Course and publication titles retain their original language.
+
+The links below point to the current pages. Publication entries distinguish published articles, forthcoming work and other categories; retain those distinctions when citing them. Abstracts are available in expandable sections on the publications pages. French abstracts are included when available; otherwise the original English abstract is identified as such.
+
+The current downloadable CVs are `/files/cv.pdf` and `/files/cv-fr.pdf`. Other dated PDF filenames may be older versions. Consult the linked pages and PDFs for current facts rather than treating this navigation guide as a separate biography.
+
+## English
+
+- [Home and research](https://thomasgp.com/): Research interests, education and funding.
+- [Publications](https://thomasgp.com/publications/): Publication details, abstracts and article links.
+- [CV page](https://thomasgp.com/cv/): Link to the current English CV.
+- [English CV PDF](https://thomasgp.com/files/cv.pdf): Academic record, research experience, teaching, service and awards.
+- [Teaching and advising](https://thomasgp.com/teaching/): Cornell minor coordination, student appointments, and Cornell and McGill course roles.
+- [Software](https://thomasgp.com/software/): Research software and associated repositories.
+- [Conferences](https://thomasgp.com/talks/): Conference presentations.
+- [In the media](https://thomasgp.com/media/): Coverage of research, with original article links.
+
+## Français
+
+- [Accueil et recherches](https://thomasgp.com/fr/): Intérêts de recherche, formation et financement.
+- [Publications](https://thomasgp.com/fr/publications/): Références bibliographiques, résumés et liens vers les articles.
+- [Page du CV](https://thomasgp.com/fr/cv/): Lien vers le CV français à jour.
+- [CV français en PDF](https://thomasgp.com/files/cv-fr.pdf): Parcours universitaire, recherche, enseignement, service et distinctions.
+- [Enseignement](https://thomasgp.com/fr/teaching/): Coordination des mineures à Cornell, rendez-vous et fonctions liées aux cours à Cornell et à McGill.
+- [Logiciels](https://thomasgp.com/fr/software/): Logiciels de recherche et dépôts associés.
+- [Conférences](https://thomasgp.com/fr/talks/): Communications scientifiques.
+- [Dans les médias](https://thomasgp.com/fr/media/): Couverture des recherches et liens vers les articles d’origine.
